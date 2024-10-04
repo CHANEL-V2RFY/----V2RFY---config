@@ -1,7 +1,7 @@
 //profile-title: base64:8J+Sptqp2KfZhtin2YQg2KrZhNqv2LHYp9mFOiBWMlJGWUDwn5Sl
 //profile-update-interval: 1
 //subscription-userinfo: upload=5000000000; download=0; total=429496729600; expire=1730653580
-profile-web-page-url: T.me/V2RFY
+#profile-web-page-url: @V2RFY
 vless://e9a511ff-8ee7-405f-9884-293c4cde9a19@hajlab.ucdavis.edu:443?path=%2F&security=tls&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v16.drlimitemergency.net&fp=chrome&type=ws&sni=hajlab.ucdavis.edu#%F0%9F%92%A5%D8%B3%D8%B1%D9%88%D8%B1 %D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%F0%9F%92%A5 %7C %F0%9F%9A%80T.me%2FV2RF%F0%9F%9A%80
 vless://e9a511ff-8ee7-405f-9884-293c4cde9a19@hajlab.ucdavis.edu:80?path=%2F&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v08.drlimitemergency.net&type=ws#%E3%80%94%F0%9F%87%AE%F0%9F%87%B7%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%E3%80%95%F0%9D%99%8F%F0%9D%99%AA%F0%9D%99%A3%F0%9D%99%A3%F0%9D%99%9A%F0%9D%99%A1 1 %E2%80%A2 %D9%87%D9%85%D9%87 %D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1 %D9%87%D8%A7
 vless://e9a511ff-8ee7-405f-9884-293c4cde9a19@hajlab.ucdavis.edu:80?path=%2F&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v25.drlimitemergency.net&type=ws#%E3%80%94%F0%9F%87%AE%F0%9F%87%B7%E2%80%A2%F0%9F%87%A9%F0%9F%87%AA%E3%80%95%F0%9D%99%8F%F0%9D%99%AA%F0%9D%99%A3%F0%9D%99%A3%F0%9D%99%9A%F0%9D%99%A1 2 %E2%80%A2 %D9%87%D9%85%D9%87 %D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1 %D9%87%D8%A7
